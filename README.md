@@ -9,6 +9,8 @@ This is an academy exercise in wich a client demand from us to do an analysis to
 - Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
 - Developers like to be near successful tech startups that have raised at least 1 Million dollars.
 - Executives like Starbucks A LOT. Ensure there's a starbucks not to far.
+- All people in the company have between 25 and 40 years, give them some place to go to party.
+
 
 # Methodology
 
@@ -16,6 +18,9 @@ I used two data bases:
     https://www.crunchbase.com/ for companies data in mongoDB
 
     https://www.kaggle.com/starbucks/store-locations to get the location of every starbucks store
+
+One API:
+    https://developer.foursquare.com/
 
 The main libraries used are:
     pandas and geopandas for frames
