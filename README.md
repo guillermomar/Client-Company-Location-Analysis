@@ -15,6 +15,7 @@ This is an academy exercise in wich a client demand from us to do an analysis to
 # Methodology
 
 I used two data bases:
+
     https://www.crunchbase.com/ for companies data in mongoDB
 
     https://www.kaggle.com/starbucks/store-locations to get the location of every starbucks store
@@ -23,9 +24,9 @@ One API:
     https://developer.foursquare.com/
 
 The main libraries used are:
-    pandas and geopandas for frames
-    pymongo for mongo queries
-    cartoframes for maps
+    - pandas and geopandas for frames
+    - pymongo for mongo queries
+    - cartoframes for maps
 
 To watch the analysis you can open the "Client company location anlysis.ipynb" in wich you will find a step by step explanation.
 
