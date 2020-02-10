@@ -24,6 +24,7 @@ One API:
     https://developer.foursquare.com/
 
 The main libraries used are:
+
     - pandas and geopandas for frames
     - pymongo for mongo queries
     - cartoframes for maps
