@@ -1,6 +1,6 @@
 # Overview
 
-![alt text](https://dlpng.com/png/6665186 "Gaming")
+![alt text](https://i.dlpng.com/static/png/6665186_preview.png "Gaming")
 
 In this repo you will find an analysis of the best location to enplace the headquarters of a client company.
 
